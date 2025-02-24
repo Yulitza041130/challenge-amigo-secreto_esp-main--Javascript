@@ -14,7 +14,7 @@ function agregarAmigo() {
     //Esta condición es un extra de lo solicitado en el challenge, con el fin de que no se puedan agregar mas amigos una vez iniciado el sorteo.
 
     if (sorteoIniciado) {
-        alert("No puedes agregar más nombres después de iniciar el sorteo.");
+        alert("No puedes agregar más nombres después de iniciar el sorteo");
         return;
     }
 
