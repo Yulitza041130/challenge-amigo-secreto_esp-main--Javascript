@@ -14,7 +14,7 @@ Este juego permite sortear de manera aleatoria  cualquier numero de nombres ingr
 
 ![Logo](assets/registro-participantes.png)
 
-**Sorteo de participantes:** para proceder al sorteo la lista debe tener minimo 3 jugadores, Una vez tenemos la lista de los participantes hacemos click en el boton sortear amigo, al ejecutarse la accion del sorteo aparecera en verde el participante seleccionado de manera aleatoria  
+**Sorteo de participantes:** para proceder al sorteo la lista debe tener minimo 3 jugadores, Una vez tenemos la lista de los participantes hacemos click en el boton sortear amigo, al ejecutarse la accion del sorteo aparecera en verde el participante seleccionado de manera aleatoria y se debe seguir dando click hasta que sean sorteados todos los amigos, una vez finalizado el sorteo , el juego lo indicará.
 
 ![Logo](assets/sorteo.png)
 
